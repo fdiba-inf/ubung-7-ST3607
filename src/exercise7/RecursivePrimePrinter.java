@@ -9,7 +9,7 @@ public class RecursivePrimePrinter {
         System.out.print("Enter n: ");
         int n = input.nextInt();
 
-        printPrimes(n);
+      print Primes(n);
     }
 
     public static void printPrimes(int n) {
