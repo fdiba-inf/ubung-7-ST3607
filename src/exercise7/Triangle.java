@@ -12,7 +12,10 @@ public class Triangle{
         for (int line = 1; line <= n; line++){
             printLine(1, line);
         }
+
         for (int line = n -1; line > 0; line--){
+        
+
           printLine(1, line);
         }
         // Print the bottom part of the triangle that is under the longest line   
