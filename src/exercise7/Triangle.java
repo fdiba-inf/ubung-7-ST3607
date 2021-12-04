@@ -17,7 +17,11 @@ public class Triangle {
           printLine(1, line);
         }
 
+<<<<<<< HEAD
         
+=======
+        // Print the bottom part of the triangle that is under the longest line
+>>>>>>> 2b2c16cdc7c6d8534f3fe8a19bea1e7da76f726a
     }
 
     public static void printLine(int start, int end) {
