@@ -24,7 +24,7 @@ public class Triangle {
     for(int number = start; number <= end; number++) {
       System.out.print(number);
       if (number !=end) {
-        System.out.print("");
+        System.out.print(" ");
       } else {
         System.out.print("");
       }
