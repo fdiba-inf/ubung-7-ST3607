@@ -20,10 +20,9 @@ public class Triangle {
 
         
 
-        // Print the bottom part of the triangle that is under the longest line
+        
     }
 
-  
 
     public static void printLine(int start, int end) {
       for (int number = start; number <= end; number++){
